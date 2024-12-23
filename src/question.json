@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "paris", "Rome"],
+        "correctOption": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correctOption": "Jupiter"
+    },
+    {
+        "id": 3,
+        "question": "Which programming language is primarily used for web development?",
+        "options": ["Python", "JavaScript", "C++", "Java"],
+        "correctOption": "JavaScript"
+    }
+    
+]
